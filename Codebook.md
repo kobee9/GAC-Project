@@ -1,17 +1,16 @@
 Codebook for tidydata
 
 1.Activity (activity labels):
-
-WALKING (value 1): subject was walking during the test
-WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
-WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
-SITTING (value 4): subject was sitting during the test
-STANDING (value 5): subject was standing during the test
-LAYING (value 6): subject was laying down during the test
+* WALKING (value 1): subject was walking during the test 
+* WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test 
+* WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test 
+* SITTING (value 4): subject was sitting during the test 
+* STANDING (value 5): subject was standing during the test 
+* LAYING (value 6): subject was laying down during the test
 
 2.Subject: 
 
-The ID of the test subject
+* The ID of the test subject
 
 3.Column variables:
 
