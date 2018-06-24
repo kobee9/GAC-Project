@@ -1,6 +1,6 @@
 Codebook for tidydata.txt
 
-1. activity (Activity labels):
+1.activity (Activity labels):
 
 WALKING
 WALKING_UPSTAIRS
@@ -9,11 +9,11 @@ SITTING
 STANDING
 LAYING
 
-2. subject: 
+2.subject: 
 
 The ID of the test subject
 
-3. Column variables:
+3.column variables:
 
 tBodyAcc-mean()-X           
 tBodyAcc-mean()-Y           
